@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+data/
+!data/.gitkeep
+.claude/
+eval/reports/*.json
+eval/reports/*.md
+.boss_profile/
+.idea/
+*.iml
+*.db
+*.sqlite
+tmp/
+output/
+scripts/__pycache__/
